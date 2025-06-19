@@ -1,0 +1,8 @@
+
+TODO.txt
+
+# Ignore Python virtual environment directories
+VENV
+
+data/results/*
+

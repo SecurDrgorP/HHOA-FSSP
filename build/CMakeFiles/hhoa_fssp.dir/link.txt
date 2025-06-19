@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/hhoa_fssp.dir/link.d CMakeFiles/hhoa_fssp.dir/src/main.cpp.o -o bin/hhoa_fssp  libhhoa_fssp_lib.a
